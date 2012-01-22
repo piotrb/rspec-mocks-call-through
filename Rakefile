@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "rspec-mocks-call-through"
   gem.homepage = "http://github.com/piotrb/rspec-mocks-call-through"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Adds call-through support for rspec stubs}
+  gem.description = %Q{}
   gem.email = "piotr.banasik@gmail.com"
   gem.authors = ["Piotr Banasik"]
   # dependencies defined in Gemfile
